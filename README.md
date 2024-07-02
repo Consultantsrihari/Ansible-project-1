@@ -12,3 +12,6 @@ Step 4: Paste Both Slave IP Addresses in the inventory File (hosts file).
 Step 5: Create a Playbook to Install Java & MySQL on “Slave1” & “Slave2”.
 
 Step 6: Check “Java” Or “MySQL” Successfully Installed on “Slave1” & “Slave2” Respectively or Not.
+
+Check the complete project using this belwo link 
+https://medium.com/@sriharimalapati/setup-ansible-cluster-install-java-mysql-using-playbooks-5c65406dea33
